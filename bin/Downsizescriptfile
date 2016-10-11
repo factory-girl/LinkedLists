@@ -1,0 +1,18 @@
+Script started on Sat 05 Apr 2014 10:14:59 PM NDT
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ java Downsoze.[KTs[Kester
+Exception in thread "main" java.lang.NoClassDefFoundError: DownsozeTester
+Caused by: java.lang.ClassNotFoundException: DownsozeTester
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:217)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:205)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:323)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:294)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:268)
+Could not find the main class: DownsozeTester. Program will exit.
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ java DownsizeTester
+[Paul, Jerry, Sharon, Charlesworth]
+[Paul, Sharon]
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ ext[Kit
+exit
+
+Script done on Sat 05 Apr 2014 10:15:17 PM NDT

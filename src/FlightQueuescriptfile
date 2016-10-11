@@ -1,0 +1,44 @@
+Script started on Sat 05 Apr 2014 11:14:32 PM NDT
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ jave FlightQueueTest
+No command 'jave' found, did you mean:
+ Command 'jive' from package 'filters' (universe)
+ Command 'jove' from package 'jove' (universe)
+ Command 'jade' from package 'jade' (main)
+ Command 'java' from package 'gcj-4.6-jre-headless' (main)
+ Command 'java' from package 'openjdk-6-jre-headless' (main)
+ Command 'java' from package 'openjdk-7-jre-headless' (universe)
+ Command 'java' from package 'default-jre' (main)
+ Command 'java' from package 'gcj-4.5-jre-headless' (universe)
+ Command 'dave' from package 'libhttp-dav-perl' (universe)
+ Command 'save' from package 'atfs' (universe)
+ Command 'jaxe' from package 'jaxe' (universe)
+jave: command not found
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ ja[Kava FlightQueueTest
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+T
+Please enter a flight number to add to the takeoff queue.
+Flight1
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+T
+Please enter a flight number to add to the takeoff queue.
+Flight2
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+L
+Please enter a flight number to add to the landing queue.
+Flight3
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+N
+Plane Flight3 has landed.
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+N
+Plane Flight1 has taken off.
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+N
+Plane Flight2 has taken off.
+Welcome to FlightQueueTest. Please select one of the following options: T to add a plane to the takeoff queue, L to add aplane to the landing queue, N to release the next flight in thequeue, or Q to quit.
+Q
+Thank you for using FlightQueueTest.
+softskeleton@softskeleton:~/workspace/LinkedLists/src$ exit
+exit
+
+Script done on Sat 05 Apr 2014 11:15:16 PM NDT
